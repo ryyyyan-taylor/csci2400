@@ -1,0 +1,27 @@
+a a
+b d
+c u
+d i
+e e
+f r
+g s
+h n
+i f
+j o
+k t
+l v
+m b
+n y
+o l
+p m
+q a
+r d
+s u
+t i
+u e
+v r
+w s
+x n
+y f
+z o
+ionefg
